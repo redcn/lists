@@ -28,3 +28,25 @@ http://kanji.zinbun.kyoto-u.ac.jp/kanseki?record=data/FA007284/taggedYagi/069002
 http://www.wul.waseda.ac.jp/kotenseki/search.php
 
 one book 中庸原解三卷 太田元貞 
+
+
+
+http://smlib.dibrary.net/ndlnet/search.do?method=kdc&kdc=990&cur_page=11#void
+
+
+korean national library
+
+
+
+http://www.dlibrary.go.kr/JavaClient/jsp/wonmun/full2_new.jsp?v_kw_str=Z8:1%20AND%2044&v_db=17&v_doc_no=68796&mode=1#cover_image
+
+
+http://www.dlibrary.go.kr/JavaClient/jsp/wonmun/ClsService/clsservice210.jsp?menu=1&sub=3&intl_top_name=%EC%97%AD%EC%82%AC&intl_no=990&intl_name=%EC%A0%84%EA%B8%B0&from_where=0&cur_page=11
+
+在线阅读，哈哈
+
+
+http://www.dlibrary.go.kr/JavaClient/jsp/wonmun/ClsService/clsservice210.jsp?menu=1&sub=3&intl_top_name=%EB%AC%B8%ED%95%99&intl_no=820&intl_name=%EC%A4%91%EA%B5%AD%EB%AC%B8%ED%95%99&from_where=0&cur_page=5
+
+
+http://www.dlibrary.go.kr/JavaClient/jsp/wonmun/ClsService/clsservice210.jsp?menu=1&sub=3&intl_top_name=%EC%97%AD%EC%82%AC&intl_no=990&intl_name=%EC%A0%84%EA%B8%B0&from_where=0&cur_page=11
